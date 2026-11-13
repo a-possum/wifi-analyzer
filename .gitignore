@@ -1,0 +1,7 @@
+.build-deps/
+.build-core/
+.venv/
+__pycache__/
+build/
+dist/
+*.spec
